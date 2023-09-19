@@ -13,7 +13,8 @@ struct mechanicPage: View {
     @State private var userInput: String = ""
     @State private var botResponse: String = ""
     
-    let openAI = OpenAISwift(authToken: "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")
+    //Enter your own GPT API
+    let openAI = OpenAISwift(authToken: "#####")
 
     var body: some View {
         ZStack{
