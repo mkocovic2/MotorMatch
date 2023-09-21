@@ -19,9 +19,9 @@ MotorMatch is a Swift-based iOS app. It uses specific APIs to retrieve informati
 - **Vehicle Comparison:** MotorMatch is able to compare statistics on two vehicles, highlighting the strengths and weaknesses of both vehicles.
 
 ## Getting Started
-1. Open MotorMatch on VSCode.
+1. Open MotorMatch on XCode.
 2. Within the "mechanicPage.Swift" file, include an API authentication key for OpenAI. Without this key, the app will still work, but the mechanic page will not respond to any user inputs.
-3. Run the program in VSCode.
+3. Click the run button, and the app will run on the device simulator. 
 
 ## Using the App
 When using MotorMatch, the user will get prompted with a small introduction. Once the introduction has concluded, the user is free to explore the app as they please.
